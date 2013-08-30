@@ -10,5 +10,5 @@ setup(name='dipipinstall',
       author_email='vaidyanathan_shanmugam@intuit.com',
       license='',
       packages=['dipipinstall'],
-    scripts=['dipipinstall/install_pip.py'],
+      scripts=['dipipinstall/install_pip.py'],
       zip_safe=False)
