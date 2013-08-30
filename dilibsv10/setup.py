@@ -11,11 +11,11 @@ setup(name='dilibs',
       license='',
       packages=['dilibs',],
       install_requires = [
-                           'robotframework-sudslibrary==0.7'
-                          'robotframework-selenium2library==1.3.0'
-                          'robotframework-rammbock==0.3.0'
-                          'robotframework-databaselibrary==0.6'
-                          'robotframework-androidlibrary==0.1.19'
+                           'robotframework-sudslibrary==0.7',
+                          'robotframework-selenium2library==1.3.0',
+                          'robotframework-rammbock==0.3.0',
+                          'robotframework-databaselibrary==0.6',
+                          'robotframework-androidlibrary==0.1.19',
                           'robotframework-httplibrary==0.4.2',
                           'robotframework-requests==0.3.3',
                           'robotframework==2.8.1',
