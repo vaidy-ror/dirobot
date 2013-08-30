@@ -12,7 +12,6 @@ setup(name='diutils',
       packages=['diutils', 'diutils.autocomplete_indices'],
       scripts=['diutils/autocomplete_indices/autocomplete_indices.py'],
       install_requires=[
-                          'dilibs==1.0',
-                          'dipipinstall==1.0'
+                          'dilibs==1.0'
                           ],
       zip_safe=False)
